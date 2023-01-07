@@ -1,0 +1,88 @@
+{
+    "candidate": [
+        {
+            "name": "john Smith",
+            "adjudication": "",
+            "status": "CLEAR",
+            "location": "Barrouallie",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "Serene",
+            "adjudication": "",
+            "status": "CLEAR",
+            "location": "Vanersborg",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "Walsh",
+            "adjudication": "",
+            "status": "CONSIDER",
+            "location": "Sukamanah",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "Maurizia",
+            "adjudication": "",
+            "status": "CLEAR",
+            "location": "Sukamanah",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "Kendre",
+            "adjudication": "",
+            "status": "CLEAR",
+            "location": "Beutong Ateuh",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "Erastus",
+            "adjudication": "",
+            "status": "CLEAR",
+            "location": "Hoviyn Am",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "Jereme",
+            "adjudication": "",
+            "status": "CONSIDER",
+            "location": "Sharigol",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "john Smith",
+            "adjudication": "",
+            "status": "CONSIDER",
+            "location": "Lianyun",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "Cari",
+            "adjudication": "",
+            "status": "Taboao da Serra",
+            "location": "Barrouallie",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "Kimble",
+            "adjudication": "",
+            "status": "CONSIDER",
+            "location": "Veseli nad Maravou",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "john Smith",
+            "adjudication": "",
+            "status": "ClEAR",
+            "location": "Barrouallie",
+            "Date": "2/22/2022"
+        },
+        {
+            "name": "john Smith",
+            "adjudication": "",
+            "status": "ClEAR",
+            "location": "Barrouallie",
+            "Date": "2/22/2022"
+        }
+    ]
+}
